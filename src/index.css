@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.news-container{
+   float: left;
+   width: 100%; 
+
+}
+.newcontainer{
+  width:78%;
+    
+  float: right;
+  padding-top: 20px;
+  
+}

@@ -1,0 +1,51 @@
+.card-container{
+    border: solid 1px rgba(0,0,0,0.25);
+    border-radius: 5px;
+    padding: 10px;
+    line-height: 20px;
+    height: auto;
+    float: left;
+    width: 95%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    /* display: flex;
+    justify-self: center; */
+}
+.link-content ,.link_decoration{
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+
+.link-content,.link_decoration:hover{
+    text-decoration: underline;
+}
+.side-link{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+
+}
+.side-link:hover{
+    text-decoration: underline;
+}
+.link-content.h3{
+    width: auto;
+}
+.img{
+    /* background-image: url(C:\Users\AravindKavin\Documents\newsapp\public\logo192.png); */
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    float: right;
+
+}
+.link-section{
+    
+    width: 500px;
+    float: left;
+}
